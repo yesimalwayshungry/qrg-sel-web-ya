@@ -6,7 +6,7 @@ import org.junit.runner.notification.Failure;
 import TestCases.TC_TravelAgencySignUp;
 
 public class TestRunner {
-
+//test change
 	public static void main(String[] args) {
 		Result result = JUnitCore.runClasses(TC_TravelAgencySignUp.class);
 		
